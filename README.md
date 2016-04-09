@@ -1,4 +1,4 @@
-Fix for players on igpu/budget gpu that experience [black circle particle](http://i.imgur.com/Ln9vE39.png) glitches.
+Fix for players on igpu/budget gpu that experience [black circle particle](http://i.imgur.com/BlRQJN5.jpg) glitches.
 
 Installation:
 -------------
