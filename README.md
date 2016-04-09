@@ -1,6 +1,13 @@
-Particle Fix:
+Particle Fix
 -------------
 Fix for players on igpu/budget gpu that experience [black circle particle](http://i.imgur.com/BlRQJN5.jpg) glitches.
+
+**Particles fixed:**
+ - No Mercy gas station explosion
+ - Crash Course helicopter fire
+ - Death Toll boathouse dock
+ - Window fires
+ - Pipe bomb explosion
 
 Installation:
 -------------
