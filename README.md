@@ -21,3 +21,4 @@ Related L4D Stuff
 - [L4D Hidden Console Variables Guide](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677)
 - [L4D HUD Project Repo](https://github.com/l4d/hud)
 - [L4D Translucent Viewmodels Repo](https://github.com/l4d/trans_vmodels) 
+- [L4D Performance Boost Repo] (https://github.com/l4d/fps_cfg)
