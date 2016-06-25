@@ -8,7 +8,7 @@ Fix for players on igpu/budget gpu that experience [black circle particle](http:
  - Death Toll boathouse dock
  - Window fires
  - Pipe bomb explosion
- - Sacrifice Map 2 right wall  
+ - Sacrifice map 2 right wall  
  - Burning ci and si
 
 Installation:
