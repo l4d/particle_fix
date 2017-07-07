@@ -6,7 +6,7 @@ Installation:
 -------------
 1. [Download](https://github.com/l4d/particle_fix/raw/master/particle_fix.vpk) and move the VPK to your addons folder:
 
-> C:\Program Files (x86)\Steam\steamapps\common\left 4 dead\left 4 dead\addons
+	> C:\Program Files (x86)\Steam\steamapps\common\left 4 dead\left 4 dead\addons
  
 **Particles fixed:**
  - No Mercy gas station explosion
