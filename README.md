@@ -4,7 +4,7 @@ Fix for players on igpu/budget gpu that experience [black circle particle](http:
 
 Installation:
 -------------
-[Download](https://github.com/l4d/particle_fix/raw/master/particle_fix.vpk) and move the VPK to your addons folder:
+1. [Download](https://github.com/l4d/particle_fix/raw/master/particle_fix.vpk) and move the VPK to your addons folder:
 
 > C:\Program Files (x86)\Steam\steamapps\common\left 4 dead\left 4 dead\addons
  
